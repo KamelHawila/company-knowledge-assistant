@@ -5,5 +5,6 @@ scikit-learn
 torch
 transformers
 sentence-transformers
+chromadb
 streamlit
 python-dotenv

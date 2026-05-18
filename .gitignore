@@ -78,6 +78,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Local vector database files
+data/chroma_company_kb/
+
 # IPython
 profile_default/
 ipython_config.py
